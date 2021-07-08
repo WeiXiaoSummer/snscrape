@@ -1,5 +1,5 @@
 import setuptools
-
+s
 
 setuptools.setup(
 	name = 'snscrape',
